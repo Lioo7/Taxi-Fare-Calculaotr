@@ -1,4 +1,4 @@
-public class Main
+public class TaxiFareCalculaotr
 {
     
     public static int getPrice(int numOfPassengers, int stops , double travelTime, int time) { // travelTime in minutes, time in am:pm
